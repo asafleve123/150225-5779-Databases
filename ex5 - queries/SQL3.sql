@@ -1,0 +1,1 @@
+select SUM(PRICE),KIND from TICKET GROUP BY KIND
