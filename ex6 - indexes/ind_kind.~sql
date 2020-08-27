@@ -1,0 +1,1 @@
+create index ind_kind on TICKET(KIND);
